@@ -1,4 +1,4 @@
-# Voice Harmonizer-Using-Dataset-
+# Voice Harmonizer-Using Dataset
 
 An enhanced harmonium synthesizer that uses a dataset of note frequencies for accurate musical note mapping. This version includes a cooldown period to prevent repeated triggers and improves note detection using a CSV-based frequency table ("note_dataset.csv").
 
